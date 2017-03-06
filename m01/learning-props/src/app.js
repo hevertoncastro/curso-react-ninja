@@ -31,6 +31,7 @@ class App extends Component {
         <button onClick={() => {
           this.setState({ time: this.state.time + 10 })
         }}>Change props</button>
+        <button onClick={}></button>
       </div>
     )
   }
